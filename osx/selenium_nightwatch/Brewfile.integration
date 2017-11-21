@@ -1,0 +1,5 @@
+# Selenium and nightwatch setup
+
+brew 'selenium-server-standalone'
+brew 'chromedriver'
+brew 'geckodriver'
