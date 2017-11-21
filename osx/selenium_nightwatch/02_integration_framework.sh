@@ -6,3 +6,5 @@ brew update
 brew tap Homebrew/bundle
 
 brew bundle --file=./Brewfile.integration
+
+npm install --global nightwatch
